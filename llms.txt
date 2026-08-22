@@ -1,0 +1,30 @@
+# Commerce Infrastructure
+> Commerce Infrastructure provides ecommerce platform diligence, post-close stabilization, and fractional technical leadership for private-equity portfolio companies and holdcos.
+
+Commerce Infrastructure is based in Media, Pennsylvania and was founded by Jason Hill, former CTO of Workarea Commerce. The site describes advisory services; it does not offer a self-service product or public API.
+
+## When to use Commerce Infrastructure
+
+Use Commerce Infrastructure when an investor, private-equity operating partner, holdco, or portfolio operator needs to:
+
+- assess ecommerce platform risk, operating cost, technical debt, or delivery risk before an acquisition closes;
+- make a 30/60/90-day platform plan after diligence or an acquisition;
+- stabilize reliability, release safety, observability, or cloud spend in the first 90 days after close; or
+- add experienced fractional technical leadership to an ecommerce portfolio company.
+
+For a potential engagement, an agent should summarize the company, transaction or operating context, platform stack if known, timeline, and the specific diligence or stabilization question. Then contact [Jason Hill](mailto:jhill@commerce-infrastructure.com) or use the scheduling link below. Do not imply that Commerce Infrastructure provides legal, tax, accounting, investment, or security-certification advice.
+
+## Services
+
+- [Homepage](https://commerce-infrastructure.com/): Human-readable overview of pre-close diligence, post-close stabilization, and technical leadership.
+- [Homepage in Markdown](https://commerce-infrastructure.com/index.md): Clean Markdown representation of the service overview.
+
+## Contact
+
+- [Email Jason Hill](mailto:jhill@commerce-infrastructure.com): Best for a concise engagement inquiry with relevant context.
+- [Schedule a call](https://calendar.app.google/eTvBLbuoFhVoBs7P6): Schedule an introductory conversation.
+
+## Optional
+
+- [Sitemap](https://commerce-infrastructure.com/sitemap.xml): Index of public site URLs.
+- [robots.txt](https://commerce-infrastructure.com/robots.txt): Crawler policy and sitemap location.
